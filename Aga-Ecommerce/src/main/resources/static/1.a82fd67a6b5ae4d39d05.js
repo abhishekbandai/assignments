@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{X3zk:function(n,o,t){"use strict";t.r(o),t.d(o,"LoginModule",function(){return i});var e=t("ofXK"),r=t("fXoL");let i=(()=>{class n{}return n.\u0275fac=function(o){return new(o||n)},n.\u0275mod=r.Cb({type:n}),n.\u0275inj=r.Bb({imports:[[e.b]]}),n})()}}]);
